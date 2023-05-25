@@ -1,0 +1,15 @@
+C:\Users\Zakm7\source\repos\NESDEV\bin\Debug\NESDEV.exe.config
+C:\Users\Zakm7\source\repos\NESDEV\bin\Debug\NESDEV.exe
+C:\Users\Zakm7\source\repos\NESDEV\bin\Debug\NESDEV.pdb
+C:\Users\Zakm7\source\repos\NESDEV\bin\Debug\FastColoredTextBox.dll
+C:\Users\Zakm7\source\repos\NESDEV\bin\Debug\FastColoredTextBox.xml
+C:\Users\Zakm7\source\repos\NESDEV\obj\Debug\NESDEV.csproj.AssemblyReference.cache
+C:\Users\Zakm7\source\repos\NESDEV\obj\Debug\NESDEV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zakm7\source\repos\NESDEV\obj\Debug\NESDEV.Form1.resources
+C:\Users\Zakm7\source\repos\NESDEV\obj\Debug\NESDEV.Properties.Resources.resources
+C:\Users\Zakm7\source\repos\NESDEV\obj\Debug\NESDEV.csproj.GenerateResource.cache
+C:\Users\Zakm7\source\repos\NESDEV\obj\Debug\NESDEV.csproj.CoreCompileInputs.cache
+C:\Users\Zakm7\source\repos\NESDEV\obj\Debug\NESDEV.csproj.CopyComplete
+C:\Users\Zakm7\source\repos\NESDEV\obj\Debug\NESDEV.exe
+C:\Users\Zakm7\source\repos\NESDEV\obj\Debug\NESDEV.pdb
+C:\Users\Zakm7\source\repos\NESDEV\obj\Debug\NESDEV.Config.resources
